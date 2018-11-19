@@ -1,0 +1,66 @@
+title: Stichting Voelspriet
+baseURL: http://www.stichtingvoelspriet.nl
+theme: theme
+googleAnalytics: UA-98368287-1
+disableKinds:
+- RSS
+- sitemap
+- taxonomy
+- taxonomyTerm
+params:
+  subtitle: Beleef de wereld, ga mee op avontuur
+  description: "Stichting Voelspriet bedenkt, initieert en produceert avonturen. De inspiratie voor onze avonturen komt uit maatschappelijk thema's zoals: natuur & milieu, duurzaamheid, cultuur en actuele onderwerpen. Vakinhoudelijke kennis en jaren ervaring als projectmanager worden In Stichting Voelspriet gecombineerd met creativiteit en een flinke dosis nieuwsgierigheid."
+  keywords: natuur, milieu, duurzaamheid, cultuur, actueel onderwerp, avontuur, educatie, interactief, kunst
+  imageUrl: https://res.cloudinary.com/frankg/image/upload/v1541276841/%v/%v.jpg
+  thumbnailUrl: https://res.cloudinary.com/frankg/image/upload/c_lfill,h_200,w_200/v1541276841/%v/%v.jpg
+  scribble:
+    "":
+      name: "Peuters natuurlijk!"
+      url: "/peuters-natuurlijk"
+    "peuters-natuurlijk":
+      name: "Stichting Voelspriet"
+      url: "/"
+menu:
+  external:
+  - name: facebook
+    pre: <i class='fab fa-facebook'></i>
+    url: https://www.facebook.com/stichtingvoelspriet
+    weight: 10
+  "":
+  - name: Visie
+    url: "#visie"
+    weight: 10
+  - name: Hoe
+    url: "#hoe"
+    weight: 20
+  - name: Wat
+    url: "#wat"
+    weight: 30
+  - name: Wie
+    url: "#wie"
+    weight: 40
+  - name: Contact
+    url: "#contact"
+    weight: 50
+  "peuters-natuurlijk":
+  - name: "Peuters natuurlijk!"
+    url: "#peuters-natuurlijk"
+    weight: 10
+  - name: Waar
+    url: "#waar"
+    weight: 20
+  - name: Wat
+    url: "#wat"
+    weight: 30
+  - name: Wanneer
+    url: "#wanneer"
+    weight: 40
+  - name: Referenties
+    url: "#referenties"
+    weight: 50
+  - name: Doelstelling
+    url: "#doelstelling"
+    weight: 60
+  - name: Zo zag dat er uit
+    url: "#zo-zag-dat-er-uit"
+    weight: 70
