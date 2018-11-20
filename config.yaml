@@ -11,8 +11,8 @@ params:
   subtitle: Beleef de wereld, ga mee op avontuur
   description: "Stichting Voelspriet bedenkt, initieert en produceert avonturen. De inspiratie voor onze avonturen komt uit maatschappelijk thema's zoals: natuur & milieu, duurzaamheid, cultuur en actuele onderwerpen. Vakinhoudelijke kennis en jaren ervaring als projectmanager worden In Stichting Voelspriet gecombineerd met creativiteit en een flinke dosis nieuwsgierigheid."
   keywords: natuur, milieu, duurzaamheid, cultuur, actueel onderwerp, avontuur, educatie, interactief, kunst
-  imageUrl: https://res.cloudinary.com/frankg/image/upload/v1541276841/%v/%v.jpg
-  thumbnailUrl: https://res.cloudinary.com/frankg/image/upload/c_lfill,h_200,w_200/v1541276841/%v/%v.jpg
+  imageUrl: https://res.cloudinary.com/stichtingvoelspriet/image/upload/v1541276841/%v/%v.jpg
+  thumbnailUrl: https://res.cloudinary.com/stichtingvoelspriet/image/upload/c_lfill,h_200,w_200/v1541276841/%v/%v.jpg
   scribble:
     "":
       name: "Peuters natuurlijk!"
