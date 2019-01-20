@@ -19,9 +19,8 @@ image: contact
 <table class="colofon">
 	<tr><td>Ontwerp identiteit en website</td><td><a href="http://studioplayground.nl/" target="_blank" rel="noopener">Studio Playground</a></td></tr>
 	<tr><td>Bouw website</td><td><a href="http://nl.linkedin.com/in/frankdegroot/" target="_blank" rel="noopener">Frank de Groot</a></td></tr>
-	<tr><td>Fotografie</td><td><a href="http://www.edwinparee.nl/" target="_blank" rel="noopener">Edwin Paree</a> (Visitekaartjes en website)</td></tr>
-	<tr><td>Fotografie</td><td><a href="https://www.flickr.com/photos/cerianthus/" target="_blank" rel="noopener">Gerard Wijnsma</a> (Onderwaterfoto’s visitekaartjes)</td></tr>
-	<tr><td>Stockfotografie</td></tr>
-	<tr><td></td><td><a href="Stichting-voelspriet-Privacy-reglement.pdf" target="_blank" rel="noopener">Privacy reglement</a></td><tr>
-	<tr><td></td><td><a href="Algemene-voorwaarden-Stichting-Voelspriet.pdf" target="_blank" rel="noopener">Algemene voorwaarden</a></td></tr>
+	<tr><td>Foto's visitekaartjes en website</td><td><a href="http://www.edwinparee.nl/" target="_blank" rel="noopener">Edwin Paree</a></td></tr>
+	<tr><td>Onderwaterfoto's visitekaartjes</td><td><a href="https://www.flickr.com/photos/cerianthus/" target="_blank" rel="noopener">Gerard Wijnsma</a></td></tr>
+	<tr><td>Stockfotografie</td><td><i class="fab fa-google"></i></td></tr>
+	<tr><td>Voorwaarden</td><td><a href="Stichting-voelspriet-Privacy-reglement.pdf" target="_blank" rel="noopener">Privacy reglement</a> <a href="Algemene-voorwaarden-Stichting-Voelspriet.pdf" target="_blank" rel="noopener">Algemene voorwaarden</a></td><tr>
 </table>
