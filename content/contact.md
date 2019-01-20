@@ -22,5 +22,5 @@ image: contact
 	<tr><td>Foto's visitekaartjes en website</td><td><a href="http://www.edwinparee.nl/" target="_blank" rel="noopener">Edwin Paree</a></td></tr>
 	<tr><td>Onderwaterfoto's visitekaartjes</td><td><a href="https://www.flickr.com/photos/cerianthus/" target="_blank" rel="noopener">Gerard Wijnsma</a></td></tr>
 	<tr><td>Stockfotografie</td><td><i class="fab fa-google"></i></td></tr>
-	<tr><td>Voorwaarden</td><td><a href="Stichting-voelspriet-Privacy-reglement.pdf" target="_blank" rel="noopener">Privacy&nbsp;preglement</a> <a href="Algemene-voorwaarden-Stichting-Voelspriet.pdf" target="_blank" rel="noopener">Algemene&nbsp;voorwaarden</a></td><tr>
+	<tr><td>Voorwaarden</td><td><a href="Stichting-voelspriet-Privacy-reglement.pdf" target="_blank" rel="noopener">Privacy&nbsp;reglement</a> <a href="Algemene-voorwaarden-Stichting-Voelspriet.pdf" target="_blank" rel="noopener">Algemene&nbsp;voorwaarden</a></td><tr>
 </table>
