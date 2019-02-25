@@ -64,3 +64,6 @@ menu:
   - name: Zo zag dat er uit
     url: "#zo-zag-dat-er-uit"
     weight: 70
+  - name: Contact
+    url: "#contact"
+    weight: 80

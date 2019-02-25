@@ -6,12 +6,10 @@ image: vergrootglas
 Zoem en Zomer starten met een heerlijk herfstseizoen op **woensdag 26 september.**  
 Aanmelden voor de workshops kan door te klikken op de link die ernaast staat. Er kunnen maximaal 10 peuters per workshops meedoen.
 
-| Datum | Workshop | Aanmelden |
-| --- | --- | --- |
-| Woensdag 26 september | Elfenbankjes & Kabouterhuisjes | Aanmelden |
-| Woensdag 3 oktober | Wilde dierendag | Aanmelden |
-| Woensdag 10 oktober | Elsa eekhoorn en de hoge boom | Aanmelden |
-| Woensdag 17 oktober | Waar slaap jij vannacht? | Aanmelden |
+{{< rsvp "Elfenbankjes & kabouterhuisjes" "Woensdag 26 september" "https://some.link" >}}
+{{< rsvp "Wilde dierendag" "Woensdag 3 oktober" "https://some.link" >}}
+{{< rsvp "Elsa eekhoorn en de hoge boom" "Woensdag 10 oktober" "https://some.link" >}}
+{{< rsvp "Waar slaap jij vannacht?" "Woensdag 17 oktober" "https://some.link" >}}
 
 Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt zes dagen in de week de lekkerste koffie, thee, gebakjes, kleine lunch en ander lekkers. Zie voor meer informatie​ [http://www.kookkunstkoffie.nl/](http://www.kookkunstkoffie.nl/)
 
