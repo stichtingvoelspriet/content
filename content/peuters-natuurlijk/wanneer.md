@@ -3,13 +3,13 @@ title: Wanneer?
 weight: 40
 image: vergrootglas
 ---
-Zoem en Zomer starten met een heerlijk herfstseizoen op **woensdag 26 september.**  
+Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 27 maart.**  
 Aanmelden voor de workshops kan door te klikken op de link die ernaast staat. Er kunnen maximaal 10 peuters per workshops meedoen.
 
-{{< rsvp "Elfenbankjes & kabouterhuisjes" "Woensdag 26 september" "https://some.link" >}}
-{{< rsvp "Wilde dierendag" "Woensdag 3 oktober" "https://some.link" >}}
-{{< rsvp "Elsa eekhoorn en de hoge boom" "Woensdag 10 oktober" "https://some.link" >}}
-{{< rsvp "Waar slaap jij vannacht?" "Woensdag 17 oktober" "https://some.link" >}}
+{{< rsvp "Wakker worden" "Woensdag 27 maart" "http://eepurl.com/gjSux1" >}}
+{{< rsvp "Berenjacht" "Woensdag 3 april" "http://eepurl.com/gjSF3j" >}}
+{{< rsvp "Voelsprieten uit" "Woensdag 10 april" "http://eepurl.com/gjSJVT" >}}
+{{< rsvp "Bosdokter" "Woensdag 17 april" "http://eepurl.com/gjSMXb" >}}
 
 Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt zes dagen in de week de lekkerste koffie, thee, gebakjes, kleine lunch en ander lekkers. Zie voor meer informatie​ [http://www.kookkunstkoffie.nl/](http://www.kookkunstkoffie.nl/)
 

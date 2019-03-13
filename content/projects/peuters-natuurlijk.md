@@ -11,7 +11,7 @@ _Ontdekken doe je buiten, want daar gebeurt het echt! Daar kun je mos aaien. Daa
 _En buiten is gezond. Je kunt er rennen, ergens op klimmen, huppelen en frisse lucht inademen. ‘Peuters natuurlijk!’ gaat altijd naar buiten, ook als het regent of waait. Dus trek jullie kaplaarzen aan en ga mee op ontdekkingstocht!!_
 
 Peuters natuurlijk! organiseert op woensdagochtend workshops. Zie hieronder voor meer informatie.  
-Daarnaast zijn wij in te huren voor groepen en feestjes. Ook geven wij ‘Peuters natuurlijk’trainingen voor pedagogische medewerkers van kinderdagverblijven. Zie hier voor onze brochure: [Peuters Natuurlijk! Brochure kinderopvang winter 2017](/wp-content/uploads/2015/11/Peuters-Natuurlijk-Brochure-kinderopvang-winter-2017.pdf)
+Daarnaast zijn wij in te huren voor groepen en feestjes. Ook geven wij ‘Peuters natuurlijk’trainingen voor pedagogische medewerkers van kinderdagverblijven. Zie hier voor onze brochure: [Peuters Natuurlijk! Brochure kinderopvang](Peuters-Natuurlijk!-Brochure-kinderopvang.pdf)
 
 Neem vooral contact met ons op!  
 mail: [info@stichtingvoelspriet.nl](mailto:info@stichtingvoelspriet.nl) of telefoon 06-21435935
@@ -38,15 +38,13 @@ Peuters natuurlijk! workshops zijn voor alle kinderen van 2 tot 4 jaar met een b
 
 ## Wanneer?
 
-Zoem en Zomer starten met een heerlijk herfstseizoen op **woensdag 26 september.**  
+Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 27 maart.**  
 Aanmelden voor de workshops kan door te klikken op de link die ernaast staat. Er kunnen maximaal 10 peuters per workshops meedoen.
 
-| Datum | Workshop | Aanmelden |
-| --- | --- | --- |
-| Woensdag 26 september | Elfenbankjes & Kabouterhuisjes | Aanmelden |
-| Woensdag 3 oktober | Wilde dierendag | Aanmelden |
-| Woensdag 10 oktober | Elsa eekhoorn en de hoge boom | Aanmelden |
-| Woensdag 17 oktober | Waar slaap jij vannacht? | Aanmelden |
+{{< rsvp "Wakker worden" "Woensdag 27 maart" "http://eepurl.com/gjSux1" >}}
+{{< rsvp "Berenjacht" "Woensdag 3 april" "http://eepurl.com/gjSF3j" >}}
+{{< rsvp "Voelsprieten uit" "Woensdag 10 april" "http://eepurl.com/gjSJVT" >}}
+{{< rsvp "Bosdokter" "Woensdag 17 april" "http://eepurl.com/gjSMXb" >}}
 
 Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt zes dagen in de week de lekkerste koffie, thee, gebakjes, kleine lunch en ander lekkers. Zie voor meer informatie​ [http://www.kookkunstkoffie.nl/](http://www.kookkunstkoffie.nl/)
 
