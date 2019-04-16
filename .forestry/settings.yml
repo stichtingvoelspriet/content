@@ -19,7 +19,7 @@ sections:
   label: Projects
   create: all
   match: "*.md"
-upload_dir: https://res.cloudinary.com/stichtingvoelspriet/image/upload/v1541276841
+upload_dir: https://api.cloudinary.com/v1_1/stichtingvoelspriet/image/upload
 public_path: https://res.cloudinary.com/stichtingvoelspriet/image/upload/v1542747914
 front_matter_path: ''
 use_front_matter_path: true
