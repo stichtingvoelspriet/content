@@ -14,6 +14,6 @@ Peuters natuurlijk! organiseert op woensdagochtend workshops. Zie hieronder voor
 Daarnaast zijn wij in te huren voor groepen en feestjes. Ook geven wij ‘Peuters natuurlijk’trainingen voor pedagogische medewerkers van kinderdagverblijven. Zie hier voor onze brochure: [Peuters Natuurlijk! Brochure kinderopvang](Peuters-Natuurlijk!-Brochure-kinderopvang.pdf)
 
 Neem vooral contact met ons op!  
-mail: [info@stichtingvoelspriet.nl](mailto:info@stichtingvoelspriet.nl) of telefoon 06-21435935
+mail: [info@stichtingvoelspriet.nl](mailto:info@stichtingvoelspriet.nl) of telefoon [06-21435935](tel:+31621435935)
 
 of schrijf je in voor onze nieuwsbrief via [deze link](http://eepurl.com/c2cvsv).

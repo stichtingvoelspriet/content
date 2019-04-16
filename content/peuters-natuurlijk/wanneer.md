@@ -15,7 +15,7 @@ Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt
 
 Onze deelnemers krijgen na afloop van de workshop een PeutersNatuurlijk-munt waarmee tegen gereduceerd tarief bij KookKunst&Koffie iets te drinken kan worden gekocht. Door deze samenwerking hebben wij op locatie de Koppelsteede een relatief laag tarief.
 
-* Een cursus van vier workshop kost € 22.
+* Een cursus van vier workshops kost € 22.
 * Een losse workshop kost € 6,50.
 
 De kosten zijn voor een peuter en een begeleider samen. Graag vooraf contant betalen.
