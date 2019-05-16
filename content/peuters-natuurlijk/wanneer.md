@@ -6,10 +6,14 @@ image: vergrootglas
 Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 27 maart.**  
 Aanmelden voor de workshops kan door te klikken op de link die ernaast staat. Er kunnen maximaal 10 peuters per workshops meedoen.
 
-{{< rsvp "Wakker worden" "Woensdag 27 maart" "http://eepurl.com/gjSux1" >}}
-{{< rsvp "Berenjacht" "Woensdag 3 april" "http://eepurl.com/gjSF3j" >}}
-{{< rsvp "Voelsprieten uit" "Woensdag 10 april" "http://eepurl.com/gjSJVT" >}}
-{{< rsvp "Bosdokter" "Woensdag 17 april" "http://eepurl.com/gjSMXb" >}}
+{{< rsvp "Toveren" "woe 22 mei" "http://eepurl.com/gn14fz" >}}
+{{< rsvp "Fete de la nature (in het weekend 26 mei)" "woe 29 mei" "http://eepurl.com/gn13GL" >}}
+{{< rsvp "Muziek in de oren" "woe 5 juni" "http://eepurl.com/gocSOf" >}}
+{{< rsvp "Regenboog in geur en kleur" "woe 12 juni" "http://eepurl.com/gn1VQj" >}}
+{{< rsvp "Piratentocht" "woe 19 juni" "http://eepurl.com/goi0n5" >}}
+{{< rsvp "Modderdag (modderdag is 28 juni)" "woe 26 juni" "http://eepurl.com/goi1bT" >}}
+_Studiedag de Spits woe 3 juli_
+{{< rsvp "Knabbelen en babbelen in de moestuin & broodjes bakken" "woe 10 juli" "http://eepurl.com/goi1AL" >}}
 
 Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt zes dagen in de week de lekkerste koffie, thee, gebakjes, kleine lunch en ander lekkers. Zie voor meer informatie​ [http://www.kookkunstkoffie.nl/](http://www.kookkunstkoffie.nl/)
 
