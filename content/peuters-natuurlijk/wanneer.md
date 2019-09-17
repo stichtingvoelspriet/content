@@ -7,13 +7,10 @@ image: vergrootglas
 Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 27 maart**. Altijd van 10 tot 11 op de Koppelsteede.  
 Aanmelden voor de workshops kan door te klikken op de link die ernaast staat. Er kunnen maximaal 10 peuters per workshops meedoen.
 
-{{< rsvp "Toveren" "woe 22 mei" "http://eepurl.com/gn14fz" >}}  
-{{< rsvp "Fête de la nature" "woe 29 mei" "http://eepurl.com/gn13GL" >}}  
-{{< rsvp "Muziek in de oren" "woe 5 juni" "http://eepurl.com/gocSOf" >}}  
-{{< rsvp "Regenboog in geur en kleur" "woe 12 juni" "http://eepurl.com/gn1VQj" >}}  
-{{< rsvp "Piratentocht" "woe 19 juni" "http://eepurl.com/goi0n5" >}}  
-{{< rsvp "Modderdag (modderdag is 28 juni)" "woe 26 juni" "http://eepurl.com/goi1bT" >}}  
-{{< rsvp "Knabbelen en babbelen in de moestuin & broodjes bakken" "woe 10 juli" "http://eepurl.com/goi1AL" >}}
+{{< rsvp "Elfenbankjes en kabouterhuisjes" "woe 25 september" "http://eepurl.com/gn14fz" >}}  
+{{< rsvp "Wilde dierendag" "woe 2 oktober" "http://eepurl.com/dHos_z" >}}  
+{{< rsvp "Elsa eekhoorn en de hoge boom" "woe 9 oktober" "http://eepurl.com/c5LJBj" >}}  
+{{< rsvp "Huis van muis" "woe 16 oktober" "http://eepurl.com/c3fSrD" >}}
 
 Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt zes dagen in de week de lekkerste koffie, thee, gebakjes, kleine lunch en ander lekkers. Zie voor meer informatie​ [http://www.kookkunstkoffie.nl/](http://www.kookkunstkoffie.nl/)
 
