@@ -11,6 +11,8 @@ Aanmelden voor de workshops kan door te klikken op de link die ernaast staat. Er
 {{< rsvp "Wilde dierendag" "woe 2 oktober" "http://eepurl.com/dHos_z" >}}  
 {{< rsvp "Elsa eekhoorn en de hoge boom" "woe 9 oktober" "http://eepurl.com/c5LJBj" >}}  
 {{< rsvp "Huis van muis" "woe 16 oktober" "http://eepurl.com/c3fSrD" >}}
+{{< rsvp "Piratentocht" "woe 30 oktober" "http://eepurl.com/dwsZnD" >}}
+{{< rsvp "Winterzzzzlaap" "woe 13 november" "http://eepurl.com/c5LML9" >}}
 
 Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt zes dagen in de week de lekkerste koffie, thee, gebakjes, kleine lunch en ander lekkers. Zie voor meer informatie​ [http://www.kookkunstkoffie.nl/](http://www.kookkunstkoffie.nl/)
 
