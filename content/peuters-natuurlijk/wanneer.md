@@ -4,15 +4,13 @@ weight: "40"
 image: vergrootglas
 
 ---
-Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 27 maart**. Altijd van 10 tot 11 op de Koppelsteede.  
+Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 1 april**. Altijd van 10 tot 11 op de Koppelsteede.  
 Aanmelden voor de workshops kan door te klikken op de link die ernaast staat. Er kunnen maximaal 10 peuters per workshops meedoen.
 
-{{< rsvp "Elfenbankjes en kabouterhuisjes" "woe 25 september" "http://eepurl.com/gn14fz" >}}  
-{{< rsvp "Wilde dierendag" "woe 2 oktober" "http://eepurl.com/dHos_z" >}}  
-{{< rsvp "Elsa eekhoorn en de hoge boom" "woe 9 oktober" "http://eepurl.com/c5LJBj" >}}  
-{{< rsvp "Huis van muis" "woe 16 oktober" "http://eepurl.com/c3fSrD" >}}
-{{< rsvp "Piratentocht" "woe 30 oktober" "http://eepurl.com/dwsZnD" >}}
-{{< rsvp "Winterzzzzlaap" "woe 13 november" "http://eepurl.com/c5LML9" >}}
+{{< rsvp "Wakker worden!" "woe 1 april" "http://eepurl.com/gjSux1" >}}  
+{{< rsvp "Wij gaan op berenjacht" "woe 8 april" "http://eepurl.com/gjSF3j" >}}  
+{{< rsvp "Voelsprieten uit!" "woe 15 april" "http://eepurl.com/gjSJVT" >}}  
+{{< rsvp "De bosdokter" "woe 22 april" "http://eepurl.com/djSczD" >}}
 
 Op de Koppelsteede werken wij samen met KookKunst&Koffie. KookKunst&Koffie maakt zes dagen in de week de lekkerste koffie, thee, gebakjes, kleine lunch en ander lekkers. Zie voor meer informatie​ [http://www.kookkunstkoffie.nl/](http://www.kookkunstkoffie.nl/)
 
@@ -23,4 +21,4 @@ Onze deelnemers krijgen na afloop van de workshop een PeutersNatuurlijk-munt waa
 
 De kosten zijn voor een peuter en een begeleider samen. Graag vooraf contant betalen.
 
-Dus… is jouw peuter een boswachter in de dop en willen jullie mee zingen, springen en door de plassen stampen: Hou deze website of onze [Facebookpagina](https://www.facebook.com/stichtingvoelspriet) in de gaten! Zeker weten dat je niets mist? Meldt je aan voor onze nieuwsbrief via een mailtje naar [info@stichtingvoelspriet.nl](mailto:info@stichtingvoelspriet.nl).
+Dus… is jouw peuter een boswachter in de dop en willen jullie mee zingen, springen en door de plassen stampen: Hou deze website of onze [Facebookpagina](https://www.facebook.com/stichtingvoelspriet) in de gaten! Zeker weten dat je niets mist? Meld je aan voor onze [nieuwsbrief](http://eepurl.com/c2cvsv) of stuur een mailtje naar [info@stichtingvoelspriet.nl](mailto:info@stichtingvoelspriet.nl).

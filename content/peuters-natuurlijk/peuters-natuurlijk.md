@@ -16,4 +16,4 @@ Daarnaast zijn wij in te huren voor groepen en feestjes. Ook geven wij ‘Peuter
 Neem vooral contact met ons op!  
 mail: [info@stichtingvoelspriet.nl](mailto:info@stichtingvoelspriet.nl) of telefoon [06-21435935](tel:+31621435935)
 
-of schrijf je in voor onze nieuwsbrief via [deze link](http://eepurl.com/c2cvsv).
+of [schrijf je in voor onze nieuwsbrief](http://eepurl.com/c2cvsv).
