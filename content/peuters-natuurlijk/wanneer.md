@@ -4,12 +4,13 @@ weight: "40"
 image: vergrootglas
 
 ---
-Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 9 september**. Altijd van 10 tot 11 op de Koppelsteede.  
+Zoem en Zomer starten met een heerlijk nieuw seizoen op **woensdag 16 september**. Altijd van 10 tot 11 op de Koppelsteede.  
 Aanmelden voor de workshops kan via Facebook door te klikken op de link die ernaast staat.
 Geen facebook? Mail dan naar [patricia@stichtingvoelspriet.nl](mailto:patricia@stichtingvoelspriet.nl).
 Er kunnen maximaal 10 peuters per workshops meedoen.
 
-{{< rsvp "De regenboog in Geuren en Kleuren" "woe 9 september" "https://www.facebook.com/events/277947636830184/" >}}
+**_Let op:_ De workshop "De regenboog in Geuren en Kleuren" van woensdag 9 september is geannuleerd.**
+
 {{< rsvp "Vriendjes toveren!" "woe 16 september" "https://www.facebook.com/events/344753719883531/" >}}
 {{< rsvp "Elfenbankjes en Kabouterhuisjes" "woe 23 september" "https://www.facebook.com/events/363270151324651/" >}}
 {{< rsvp "Wie is de kampioen van het bos?" "woe 30 september" "https://www.facebook.com/events/1245190912482716/" >}}
